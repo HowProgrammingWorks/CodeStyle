@@ -3,9 +3,9 @@
 
 1. [JavaScript](JavaScript/README.ru.md)
 2. [Haskell](Haskell/README.ru.md)
-3. [Python](Python/README.ru.md)
+3. [Python](http://pep8.ru/doc/pep8/)
 4. [C++](C++/README.ru.md)
-5. [Go](Go/README.ru.md)
+5. [Go](https://golang.org/doc/effective_go.html)
 6. [Swift](Swift/README.ru.md)
 7. [Java](Java/README.ru.md)
 8. [Lisp](Lisp/README.ru.md)
