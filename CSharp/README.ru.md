@@ -239,7 +239,7 @@ public enum Dockings
 
 ### Do not explicitly specify a type of an enum or values of enums (except bit fields)
 ```cs
-// Don't
+// Неправильно
 public enum Direction : long
 {
     North = 1,
@@ -264,7 +264,7 @@ public enum Direction
 
 ### Do not suffix enum names with Enum
 ```cs
-// Don't
+// Неправильно
 public enum CoinEnum
 {
     Penny,
