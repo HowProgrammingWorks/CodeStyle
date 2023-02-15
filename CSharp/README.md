@@ -1,4 +1,4 @@
-# Code Style and Conventions
+# C# Code Style and Conventions
 | [English](README.md) | [Русский](README.ru.md) |
 
 ### Use PascalCasing for class names and method names
